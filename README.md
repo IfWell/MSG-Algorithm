@@ -23,7 +23,7 @@ You should set environmental variable PATH
 
 환경변수 PATH를 설정해야 함 (환경변수는 어떻게 설정하나요?)
 
-- Hot to set a environmental variable?
+- Hot to set a environmental variable? (환경변수는 어떻게 설정하나요?)
 
 https://medium.com/@psychet_learn/python-%EA%B8%B0%EC%B4%88-2%EC%9E%A5-python-%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-windows-ver-b030d96bcbd0
 
@@ -45,5 +45,6 @@ https://medium.com/@psychet_learn/python-%EA%B8%B0%EC%B4%88-2%EC%9E%A5-python-%E
 >2. Put a command 'python (script's name)'
 >('python (스크립트 이름)' 을 입력한다)
 
+<br>
 
 Some information will be added in this file (더 많은 내용이 추가될 예정입니다)
