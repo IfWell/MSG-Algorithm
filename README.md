@@ -21,7 +21,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 You should set environmental variable PATH
 
-환경변수 PATH를 설정해야 함 (환경변수는 어떻게 설정하나요?)
+환경변수 PATH를 설정해야 함 
 
 - Hot to set a environmental variable? (환경변수는 어떻게 설정하나요?)
 
